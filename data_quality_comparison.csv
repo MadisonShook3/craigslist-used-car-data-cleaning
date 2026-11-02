@@ -1,0 +1,7 @@
+Issue,Before,After
+Blank manufacturer values,4420,0
+Blank condition values,38289,0
+Invalid prices (zero or negative),8328,0
+"Extreme mileage values (>500,000)",272,0
+Completely empty columns,1,0
+Duplicate listing IDs,0,0
